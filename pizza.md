@@ -5,7 +5,8 @@
 *Colocamos los ingredientes
 *Ponemos en el horno
 *Esperar 20 minutos
-\*Disfrutar de la receta
+*Esperar otros 10 Minutos
+*Disfrutar de la receta
 
 ---
 
